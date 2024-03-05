@@ -69,7 +69,7 @@ h3 {
 }
 
 .top-container {
-  background-color: #E4F9F5;
+  background-color: #11cdd4;
   position: relative;
   padding-top: 100px;
 }
@@ -89,6 +89,7 @@ hr {
 }
 
 .middle-container {
+  background-color: #E4F9F5;
   margin: 100px 0;
 }
 
